@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "checkJs": true,
+    "allowJs": true,
+    "noEmit": true,
+    "outDir": "./dist",
+    "target": "es6"
+  },
+  "include": [
+    "./**/*.ts",
+    "./**/*.js"
+  ],
+}
